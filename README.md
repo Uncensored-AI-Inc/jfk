@@ -12,6 +12,7 @@
 # JFK 2025 Document Release
 
 This repository contains the documents from the 2025 release of JFK assassination records by the United States government, converted to markdown format for improved accessibility and searchability.
+[Files Here](https://github.com/doctly/jfk/tree/main/jfk_files_md)
 
 ## Conversion Process
 
