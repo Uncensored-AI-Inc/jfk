@@ -7867,7 +7867,3 @@ ABOVE BEING SJOLIITTED FOR BUREAU'S INFORMATION.
 END
 
 ![handwritten text: 2/23/7h Lewis per Elliff 55 yer is not a staff member pred]
-
-
----
-Converted with [doctly.ai](https://doctly.ai)

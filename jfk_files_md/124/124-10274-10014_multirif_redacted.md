@@ -13708,7 +13708,3 @@ NOTE CONTINUED:
 and SSC informed separately of correct address. This is to inform Los Angeles that Keane is not involved and Kearney may be.
 
 - 2 -
-
-
----
-Converted with [doctly.ai](https://doctly.ai)
